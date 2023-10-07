@@ -5,4 +5,7 @@ https://cdss-datathon-fall-2023.devpost.com/
 
 - https://docs.google.com/document/d/1exDCbanT0MhBiH-P0X40YyRRnW78xUJJWExEcds557I/edit
 
+- reference code:
 - https://github.com/ozkary/data-engineering-mta-turnstile.git
+- https://github.com/amal2121/Exploratory-data-analysis-MTA-Project.git
+- https://github.com/youngjeong46/MTA.git
