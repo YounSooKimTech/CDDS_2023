@@ -6,7 +6,8 @@
     <td style="background-color: yellow; padding: 5px;"><strong>Python</strong></td>
   </tr>
 </table>
-![scikit-learn](https://img.shields.io/badge/scikit--learn-Blue?logo=scikit-learn&logoColor=white)
+
+[![scikit-learn](https://your-image-url.com/scikit-learn-logo.png)](https://scikit-learn.org/)
 
 
 
