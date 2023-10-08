@@ -2,12 +2,6 @@
 ![ML](https://img.shields.io/badge/ML-Machine%20Learning-blue)
 ![Statistics](https://img.shields.io/badge/Statistics-Descriptive%20Statistics-lightgreen)
 ![Python](https://img.shields.io/badge/Python-Yellow?logo=python&logoColor=white)
-
-<table>
-  <tr>
-    <td style="background-color: yellow; padding: 5px;"><strong>Python</strong></td>
-  </tr>
-</table>
 [![scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)](https://scikit-learn.org/stable/)
 
 
