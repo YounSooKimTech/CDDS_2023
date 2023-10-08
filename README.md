@@ -1,6 +1,6 @@
 # CDDS_2023 Data Analysis Project
 ![ML](https://img.shields.io/badge/ML-Machine%20Learning-blue)
-![Statistics](https://img.shields.io/badge/Statistics-Descriptive%20Statistics-blue)
+![Statistics](https://img.shields.io/badge/Statistics-Descriptive%20Statistics-lightgreen)
 
 
 
