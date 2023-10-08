@@ -1,6 +1,8 @@
 # CDDS_2023 Data Analysis Project
 ![ML](https://img.shields.io/badge/ML-Machine%20Learning-blue)
 ![Statistics](https://img.shields.io/badge/Statistics-Descriptive%20Statistics-lightgreen)
+![Python](https://img.shields.io/badge/Python-Yellow?logo=python&logoColor=white)
+
 <table>
   <tr>
     <td style="background-color: yellow; padding: 5px;"><strong>Python</strong></td>
