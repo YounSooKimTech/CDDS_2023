@@ -2,7 +2,7 @@
 ![ML](https://img.shields.io/badge/ML-Machine%20Learning-blue)
 ![Statistics](https://img.shields.io/badge/Statistics-Descriptive%20Statistics-lightgreen)
 ![Python](https://img.shields.io/badge/Python-Yellow?logo=python&logoColor=white)
-[![scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)](https://scikit-learn.org/stable/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="100">](https://scikit-learn.org/stable/)
 
 
 Welcome to the CDDS_2023 Data Analysis Project repository. This project is part of the CDDS Datathon in Fall 2023. 
