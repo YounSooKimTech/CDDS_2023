@@ -1,10 +1,5 @@
 # CDDS_2023 Data Analysis Project
-<table>
-  <tr>
-    <td style="background-color: #F88D27; padding: 5px;"><strong>ML</strong></td>
-    <td style="background-color: #4CAF50; padding: 5px;"><strong>Machine Learning</strong></td>
-  </tr>
-</table>
+![ML](https://img.shields.io/badge/ML-Machine%20Learning-brightgreen)
 
 
 
