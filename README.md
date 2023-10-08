@@ -1,13 +1,5 @@
 # CDDS_2023 Data Analysis Project
-
-<!-- Button 1 -->
-<a href="https://cdss-datathon-fall-2023.devpost.com/" target="_blank"><img src="https://your-button-image-url.com/button1.png" alt="Datathon Page"></a>
-
-<!-- Button 2 -->
-<a href="https://dacon.io/competitions/official/235837/codeshare/3686?page=1&dtype=recent" target="_blank"><img src="https://your-button-image-url.com/button2.png" alt="Seoul Bike Estimation"></a>
-
-<!-- Button 3 -->
-<a href="https://docs.google.com/document/d/1exDCbanT0MhBiH-P0X40YyRRnW78xUJJWExEcds557I/edit" target="_blank"><img src="https://your-button-image-url.com/button3.png" alt="Project Documentation"></a>
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue)
 
 
 Welcome to the CDDS_2023 Data Analysis Project repository. This project is part of the CDDS Datathon in Fall 2023. 
