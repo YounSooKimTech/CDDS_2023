@@ -7,9 +7,6 @@
   </tr>
 </table>
 
-[![scikit-learn](https://your-image-url.com/scikit-learn-logo.png)](https://scikit-learn.org/)
-
-
 
 Welcome to the CDDS_2023 Data Analysis Project repository. This project is part of the CDDS Datathon in Fall 2023. 
 Explore the resources and references related to our data analysis journey.
