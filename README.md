@@ -1,5 +1,6 @@
 # CDDS_2023 Data Analysis Project
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue)
+
+[![Machine Learning](https://img.shields.io/badge/Machine%20-Blue?style=flat&logo=python&logoColor=white)]
 
 
 Welcome to the CDDS_2023 Data Analysis Project repository. This project is part of the CDDS Datathon in Fall 2023. 
