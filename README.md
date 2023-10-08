@@ -8,6 +8,7 @@
     <td style="background-color: yellow; padding: 5px;"><strong>Python</strong></td>
   </tr>
 </table>
+[![scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)](https://scikit-learn.org/stable/)
 
 
 Welcome to the CDDS_2023 Data Analysis Project repository. This project is part of the CDDS Datathon in Fall 2023. 
